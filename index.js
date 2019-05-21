@@ -1,3 +1,5 @@
-describe('shout(string)',()= {...
-})
+describe shout(string ;{
+  return string.toUpperCase();
+}
+
 
