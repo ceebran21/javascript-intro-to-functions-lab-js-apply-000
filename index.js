@@ -1,2 +1,0 @@
-describe(shout(string)', function( 
-)
